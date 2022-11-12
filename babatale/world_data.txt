@@ -1,0 +1,14 @@
+[general]
+author=magentasnail
+name=Babatale
+themecount=5
+firstlevel=3level
+start=5level
+prize_max=82
+clear_max=6
+bonus_max=1
+
+[levels]
+levelid=102
+rolling_levelid=103
+

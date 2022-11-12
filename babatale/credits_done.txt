@@ -1,0 +1,46 @@
+BABATALE
+
+ 
+$1,4BY
+$4,2MagentaSnail
+  
+ 
+$1,4BASED ON
+UNDERTALE BY $0,2TOBY FOX 
+ 
+ 
+  
+$1,4cast
+  
+$0,3blossom flower is $0,2flowey
+ 
+$2,2keke $0,3is $0,2dummy $0,3and $0,2mad dummy
+ 
+$2,3jiji $0,3is $0,2toriel
+ 
+$4,2ghost $0,3is $0,2napstablook
+ 
+$2,1skull $0,3is $0,2sans
+ 
+$0,1staute $0,3is $0,2papyrus
+ 
+$3,3fish $0,3is $0,2undyne
+ 
+$2,4bee $0,3is $0,2monster kid
+ 
+$2,2lizard $0,3is $0,2alphys
+  
+$0,1robot $0,3is $0,2mettaton
+ 
+$6,2bug $0,3is $0,2muffet
+ 
+$1,4it $0,3is $0,2asgore
+ 
+$4,2baba $0,3and $1,4badbad $0,3is $0,2asriel 
+ 
+ 
+ 
+ 
+$2,2love $0,3is $2,2you
+ 
+thanks for playing!
